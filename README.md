@@ -21,16 +21,16 @@ Je ne suis pas là pour la théorie, mais pour l'action. Mon moteur ? Apporter d
 
 ### En quelques mots
 
-* 🛠️ **Mon approche :** Le code est un outil au service de la solution. Je vise l'efficacité et la robustesse.
-* ⚡ **Expertise :** Full-stack polyvalent avec une forte capacité d'adaptation sur différents environnements (Native, Hybride, Backend).
-* 🤖 **Automation :** Grand fan d'automatisation pour optimiser les workflows et gagner en productivité.
-* 📱 **Social :** Je partage mes retours d'expérience sur [TikTok (@venincorse)](https://www.tiktok.com/@venincorse?_r=1&_t=ZM-92FkRK5GkcG).
+*  **Mon approche :** Le code est un outil au service de la solution. Je vise l'efficacité et la robustesse.
+*  **Expertise :** Full-stack polyvalent avec une forte capacité d'adaptation sur différents environnements (Native, Hybride, Backend).
+*  **Automation :** Grand fan d'automatisation pour optimiser les workflows et gagner en productivité.
+*  **Social :** Je partage mes retours d'expérience sur [TikTok (@venincorse)](https://www.tiktok.com/@venincorse?_r=1&_t=ZM-92FkRK5GkcG).
 
 ---
 ### Projets à la une
 
-* **[skills-up-projects](https://github.com/kingcrud12/promethee-selenium)** – Bibliothèques d'automatisations de tests end to end UI.
-* **[Zetta](https://github.com/kingcrud12/eboutique_reconcil_beauty_afro)** – API et e-commerce en production.
+* **[Promethee-selenium](https://github.com/kingcrud12/promethee-selenium)** – Bibliothèques d'automatisations de tests end to end UI.
+* **[Eboutique-reconcil-beauty-afro](https://github.com/kingcrud12/eboutique_reconcil_beauty_afro)** – API et e-commerce en production.
 
 ---
 
