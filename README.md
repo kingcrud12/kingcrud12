@@ -1,4 +1,4 @@
-# Salut, moi c'est Kingcrud12 !
+# Salut, moi c'est Kingcrud !
 
 ![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white) 
