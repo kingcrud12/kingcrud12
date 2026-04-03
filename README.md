@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Charles !
 
-<!--
-**kingcrud12/kingcrud12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Développeur Full-stack Web & Mobile | Passionné par la résolution de problèmes | Automation enthusiast**
 
-Here are some ideas to get you started:
+Je ne suis pas là pour la théorie, mais pour l'action. Mon moteur ? Apporter des solutions concrètes et efficaces à des problèmes complexes grâce au code. Que ce soit pour du Web, du Mobile ou de l'automatisation de processus, je construis des outils qui font la différence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 En quelques mots
+
+* 🛠️ **Mon approche :** Le code est un outil au service de la solution. Je vise l'efficacité et la robustesse.
+* ⚡ **Expertise :** Full-stack polyvalent avec une forte capacité d'adaptation sur différents environnements (Native, Hybride, Backend).
+* 🤖 **Automation :** Grand fan d'automatisation pour optimiser les workflows et gagner en productivité.
+* 📱 **Social :** Je partage mes retours d'expérience sur [TikTok (@venincorse)](https://www.tiktok.com/@venincorse?_r=1&_t=ZM-92FkRK5GkcG).
+
+---
+
+### 🛠 Mon Stack Technique
+
+#### 💻 Backend & Web
+![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white) 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+#### 📱 Mobile & Cross-Platform
+![SwiftUI](https://img.shields.io/badge/SwiftUI-00599C?style=for-the-badge&logo=swift&logoColor=white) 
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### ⚙️ DevOps & Outils
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📌 Projets à la une
+
+* **[skills-up-projects](https://github.com/kingcrud12/promethee-selenium)** – Bibliothèques d'automatisations de tests end to end UI.
+* **[Zetta](https://github.com/kingcrud12/eboutique_reconcil_beauty_afro)** – API et e-commerce en production.
+
+---
+
+---
+
+> *“Coder des solutions, pas seulement des lignes.”* 🚀
