@@ -29,8 +29,10 @@ Je ne suis pas là pour la théorie, mais pour l'action. Mon moteur ? Apporter d
 ---
 ### Projets à la une
 
-* **[Promethee-selenium](https://github.com/kingcrud12/promethee-selenium)** – Bibliothèque d'automatisation de tests end to end UI.
 * **[Eboutique-reconcil-beauty-afro](https://github.com/kingcrud12/eboutique_reconcil_beauty_afro)** – API et e-commerce en production.
+* **[Eboutique-reconcil-beauty-afro](https://github.com/kingcrud12/Easy-task-ios-version-)** – Super assistant pour les entrepreneurs (native IOS)
+* **[Promethee-selenium](https://github.com/kingcrud12/promethee-selenium)** – Bibliothèque d'automatisation de tests end to end UI.
+
 
 ---
 
