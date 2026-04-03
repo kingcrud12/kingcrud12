@@ -24,7 +24,7 @@ Je ne suis pas là pour la théorie, mais pour l'action. Mon moteur ? Apporter d
 *  **Mon approche :** Le code est un outil au service de la solution. Je vise l'efficacité et la robustesse.
 *  **Expertise :** Full-stack polyvalent avec une forte capacité d'adaptation sur différents environnements (Native, Hybride, Backend).
 *  **Automation :** Grand fan d'automatisation pour optimiser les workflows et gagner en productivité.
-*  **Social :** Je partage mes retours d'expérience sur [TikTok (@venincorse)](https://www.tiktok.com/@venincorse?_r=1&_t=ZM-92FkRK5GkcG).
+*  **Social :** Je partage mes retours d'expérience sur [TikTok (@vkingcruddev)](https://www.tiktok.com/@kingcruddev?_r=1&_t=ZN-95DcGeFPxGY).
 
 ---
 ### Projets à la une
