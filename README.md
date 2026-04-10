@@ -31,6 +31,7 @@ Je ne suis pas là pour la théorie, mais pour l'action. Mon moteur ? Apporter d
 * **[Eboutique-reconcil-beauty-afro](https://github.com/kingcrud12/eboutique_reconcil_beauty_afro)** – API et e-commerce en production.
 * **[Easy-Task](https://github.com/kingcrud12/Easy-task-ios-version-)** – Super assistant pour les entrepreneurs (native IOS)
 * **[Easy-Task](https://github.com/kingcrud12/Easy-Task-Android-version-)** – Super assistant pour les entrepreneurs (native Android)
+* **[Malea](https://github.com/kingcrud12/malea)** – Votre meilleur ami pour explorer votre ville autrement !
 * **[Promethee-selenium](https://github.com/kingcrud12/promethee-selenium)** – Bibliothèque d'automatisation de tests end to end UI.
 
 
