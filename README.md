@@ -14,7 +14,7 @@
 
 **Développeur Full-stack Web & Mobile | Passionné par la résolution de problèmes | Automation enthusiast**
 
-Je ne suis pas là pour la théorie, mais pour l'action. Mon moteur ? Apporter des solutions concrètes et efficaces à des problèmes complexes grâce au code. Que ce soit pour du Web, du Mobile ou de l'automatisation de processus, je construis des outils qui font la différence.
+Mon moteur ? Apporter des solutions concrètes et efficaces à des problèmes complexes grâce au code. Que ce soit pour du Web, du Mobile ou de l'automatisation de processus, je construis des outils qui font la différence.
 
 ---
 
