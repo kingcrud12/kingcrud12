@@ -28,6 +28,8 @@ Je ne suis pas là pour la théorie, mais pour l'action. Mon moteur ? Apporter d
 ---
 ### Projets à la une
 
+
+* **[Root Academy](https://github.com/kingcrud12/root_academy.git)** – Learning Management System (LMS) fullstack complet.
 * **[Eboutique-reconcil-beauty-afro](https://github.com/kingcrud12/eboutique_reconcil_beauty_afro)** – API et e-commerce en production.
 * **[Easy-Task](https://github.com/kingcrud12/Easy-task-ios-version-)** – Super assistant pour les entrepreneurs (native IOS)
 * **[Easy-Task](https://github.com/kingcrud12/Easy-Task-Android-version-)** – Super assistant pour les entrepreneurs (native Android)
